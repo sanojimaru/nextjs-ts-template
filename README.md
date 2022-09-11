@@ -1,4 +1,4 @@
-# idolly
+# Next.js Typescript Template
 
 ## Requirements
 
@@ -51,4 +51,5 @@ Formatting with prettier:
 Building:
 
     yarn workspaces run build
+
 # nextjs-ts-template
