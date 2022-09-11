@@ -27,7 +27,7 @@
 
 ## Installation
 
-    git clone git@github.com:alterworks/idolly.git
+    git clone git@github.com:sanojimaru/nextjs-typescript-template.git
     yarn prepare
 
 ## Commands
